@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/chenzhongwei/ZCMemoTools'
+  s.homepage         = 'https://github.com/LostMemoria/ZCMemoTools.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'chenzhongwei' => 'chenzhongwei@top-stack.com' }
-  s.source           = { :git => 'https://github.com/chenzhongwei/ZCMemoTools.git', :tag => s.version.to_s }
+  s.author           = { 'ZhiCang' => 'ff945012963@gmail.com' }
+  s.source           = { :git => 'https://github.com/LostMemoria/ZCMemoTools.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
