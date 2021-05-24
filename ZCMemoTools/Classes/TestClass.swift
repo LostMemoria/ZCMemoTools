@@ -7,10 +7,10 @@
 
 import Foundation
 
-class TestClass: NSObject {
+open class TestClass: NSObject {
     
     /// 测试用输出方法
-    class func printSuccess() {
+    open class func printSuccess() {
         print("Pod Success!")
     }
 }
